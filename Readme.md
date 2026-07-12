@@ -1,6 +1,6 @@
 # J-CARS Logistics Sales
 
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.PNG)
 
 ## Project Objective
 
